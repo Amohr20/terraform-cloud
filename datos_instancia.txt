@@ -1,0 +1,32 @@
+instancia creada con ip $(aws_instance.public_ec2.public_ip) 
+instancia creada con ip 3.238.129.202 
+instancia creada con ip 3.89.64.69 
+instancia 3.89.64.69 destruida 
+instancia creada con ip 98.93.158.220 
+instancia 98.93.158.220 destruida 
+instancia creada con ip 54.211.196.40 
+instancia 54.211.196.40 destruida 
+instancia creada con ip 98.80.234.83 
+instancia 98.80.234.83 destruida 
+instancia creada con ip 54.227.69.164 
+instancia 54.227.69.164 destruida 
+instancia creada con ip 107.23.38.49 
+instancia 107.23.38.49 destruida 
+instancia creada con ip 18.209.212.134 
+instancia 18.209.212.134 destruida 
+instancia creada con ip 3.235.55.221 
+instancia 3.235.55.221 destruida 
+instancia creada con ip 44.193.206.110 
+instancia 44.193.206.110 destruida 
+instancia creada con ip 44.202.216.127 
+instancia 44.202.216.127 destruida 
+instancia creada con ip 3.238.42.64 
+instancia 3.238.42.64 destruida 
+instancia creada con ip 18.214.39.117 
+instancia 18.214.39.117 destruida 
+instancia creada con ip 54.158.27.73 
+instancia 54.158.27.73 destruida 
+instancia creada con ip 3.236.244.7 
+instancia 18.207.241.187 destruida 
+instancia creada con ip 52.201.254.83 
+instancia creada con ip 54.221.16.38 

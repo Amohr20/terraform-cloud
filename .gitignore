@@ -1,0 +1,13 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+*.log
+
+# Terraform lock file (opcional, puedes comentarlo si quieres versionarlo)
+.terraform.lock.hcl
+
+# OS
+.DS_Store
+Thumbs.db
